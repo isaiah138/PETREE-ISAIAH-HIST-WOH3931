@@ -16,6 +16,8 @@ Do you have supplementary materials (such as media files) or links for further i
 
 [United States Holocaust Memorial Museum](https://www.ushmm.org/)
 
+[Jewish Virtual Library Nazi War Crimes Database](https://www.jewishvirtuallibrary.org/nazi-war-crimes-and-trials)
+
 
 
 # Supplementary Media Files
