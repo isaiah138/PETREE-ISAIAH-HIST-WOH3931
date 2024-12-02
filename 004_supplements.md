@@ -18,4 +18,5 @@ Place your links here to websites that have information about your topic.
 
 # Supplementary Media Files
 
-{% assign media = site.media_metadata | where_exp: “item”, “item.name == ‘nurembergvid’” %} {% include media.html pages=media %}
+{% assign media = site.media_metadata | where_exp: “item”, “item.name == ‘Nurembergvid’” %}
+{% include media.html pages=media %}
