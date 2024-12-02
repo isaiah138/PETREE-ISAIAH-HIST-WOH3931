@@ -1,9 +1,13 @@
+---
 name: nurembergvid
 media_type: video
+
 _title: What Happened at the Nuremberg Trials?
 description: Short video explaining an overview of the Nuremberg Trials
 creator: History Channel
 _date: 2017
 source: YouTube
+
 _path: https://www.youtube.com/embed/RsA6AdCRI-k?si=HPDaf_ZNLHKzkuHI
 layout: media_description
+---
