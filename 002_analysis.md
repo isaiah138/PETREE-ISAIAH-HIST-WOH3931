@@ -21,7 +21,9 @@ When examining the history of the war crimes committed by Germany during World W
 
 
 # Analysis 2
-## by 
+## by David Green
+
+
 
 
 
@@ -61,7 +63,7 @@ During the invasion of the Soviet Union mass rape occurred. Rape and sexual viol
 [^C2]: Mazower, Mark. <i>Hitler's Empire: How the Nazis Ruled Europe.<i> Penguin, 2009. 
 [^C3]: Collingham, Lizzie. <i>Taste of War: World War II and the Battle for Food.<i> Penguin, 2012.
 [^C4]: Collingham, Lizzie. <i>Taste of War: World War II and the Battle for Food.<i> Penguin, 2012.
-[^C5]: Weisz, GM. Starvation Genocide in Occupied Eastern Europe 1939-1945: Food Confiscation by and for the Nazis. <i>Law Med.<i> 2021, pgs. 105-113.
+[^C5]: Weisz, GM. "Starvation Genocide in Occupied Eastern Europe 1939-1945: Food Confiscation by and for the Nazis." <i>Law Med.<i> 2021, pgs. 105-113.
 [^C6]: Collingham, Lizzie. <i>Taste of War: World War II and the Battle for Food.<i> Penguin, 2012.
 [^C7]: Edele, Mark. "Crimes Against Humanity." In <i>The Routledge History of the Second World War<i>, pp. 625-638. Routledge, 2021. 
 [^C8]: Edele, Mark. "Crimes Against Humanity." In <i>The Routledge History of the Second World War<i>, pp. 625-638. Routledge, 2021.
