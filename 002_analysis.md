@@ -23,9 +23,13 @@ When examining the history of the war crimes committed by Germany during World W
 ## by 
 
 
+[^1]: Bergen et al., <i>The United States Holocaust Memorial Museum Encyclopedia of Camps and Ghettos, 1933-1945, Volume I: Early Camps, Youth Camps, and Concentration Camps and Subcamps under the SS-Business Administration Main Office (WVHA).<i> 443. 
+[2]: Bergen et al., <i>The United States Holocaust Memorial Museum Encyclopedia of Camps and Ghettos, 1933-1945, Volume I: Early Camps, Youth Camps, and Concentration Camps and Subcamps under the SS-Business Administration Main Office (WVHA).<i> 444. 
+[3]: Bergen et al., <i>The United States Holocaust Memorial Museum Encyclopedia of Camps and Ghettos, 1933-1945, Volume I: Early Camps, Youth Camps, and Concentration Camps and Subcamps under the SS-Business Administration Main Office (WVHA).<i> 442.
+[4]: Croes, “Holocaust Survival Differentials in the Netherlands, 1942-1945: The Role of Wealth and Nationality.” 24
+[5]: Wittmann, “The Wheels of Justice Turn Slowly: The Pretrial Investigations of the Frankfurt Auschwitz Trial 1963-65.” 366 
+[6]: Wittmann, “The Wheels of Justice Turn Slowly: The Pretrial Investigations of the Frankfurt Auschwitz Trial 1963-65.” 368.
 
-# Footnote Citations
-[^1]: Bergen et al., <i>The United States Holocaust Memorial Museum Encyclopedia of Camps and Ghettos, 1933-1945, Volume I: Early Camps, Youth Camps, and Concentration Camps and Subcamps under the SS-Business Administration Main Office (WVHA)<i>. 443. 
 
 # Embedding a Single Image
 
