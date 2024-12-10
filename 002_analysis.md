@@ -32,14 +32,6 @@ When examining the history of the war crimes committed by Germany during World W
 [^6]: Wittmann, “The Wheels of Justice Turn Slowly: The Pretrial Investigations of the Frankfurt Auschwitz Trial 1963-65.” 368.
 
 
-# Embedding a Single Image
-
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'siemensfactory'" %}
-{% include media.html pages=media %}
-
-# Embedding a Single Video
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
-{% include media.html pages=media %}
 
 # Linking to a PDF File
 
