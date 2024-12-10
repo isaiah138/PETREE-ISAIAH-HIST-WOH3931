@@ -40,7 +40,7 @@ In fully occupied areas by Germany such as Poland and Greece many local populati
 
 ### Relocation and Slavery 
 
-During the Second World War Germany was facing more and more labor shortages as the war went on. To solve this issue the nazi regimes forced people from Eastern Europe to help Germany’s wartime economy.[^C7] The jobs these people did included agriculture, which ties into the hunger shortages as previously stated, and war industries. War industries would include munitions factories, clothing for soldiers, and other war based manufacturing. In total, 5.7 million people were forced from their homes and forced to work in Germany. Many of these people were from the Soviet Union, Poland, and even France. Recruitment for these labor forces resembled manhunts in Eastern Europe.[^C8] 1 quarter of the German workforce would be from forced labor. The labor these people were forced into along with the conditions they lived in is nothing short of slavery. This is different from the labor camps most people think of. These people were relocated to Germany versus being put into a camp in the east. Nevertheless, this type of forced labor resembles slavery due to lack of freedom and the manhunts in order to obtain workers.  
+During the Second World War Germany was facing more and more labor shortages as the war went on. To solve this issue the nazi regimes forced people from Eastern Europe to help Germany’s wartime economy.[^C7] The jobs these people did included agriculture, which ties into the hunger shortages as previously stated, and war industries. War industries would include munitions factories, clothing for soldiers, and other war based manufacturing. In total, 5.7 million people were forced from their homes and forced to work in Germany. Many of these people were from the Soviet Union, Poland, and even France. Recruitment for these labor forces resembled manhunts in Eastern Europe.[^C8] One quarter of the German workforce would be from forced labor. The labor these people were forced into along with the conditions they lived in is nothing short of slavery. This is different from the labor camps most people think of. These people were relocated to Germany versus being put into a camp in the east. Nevertheless, this type of forced labor resembles slavery due to lack of freedom and the manhunts in order to obtain workers.  
 
 ### Crimes against women 
 
@@ -53,6 +53,7 @@ During the invasion of the Soviet Union mass rape occurred. Rape and sexual viol
 [^A4]: Croes, “Holocaust Survival Differentials in the Netherlands, 1942-1945: The Role of Wealth and Nationality.” 24
 [^A5]: Wittmann, “The Wheels of Justice Turn Slowly: The Pretrial Investigations of the Frankfurt Auschwitz Trial 1963-65.” 366 
 [^A6]: Wittmann, “The Wheels of Justice Turn Slowly: The Pretrial Investigations of the Frankfurt Auschwitz Trial 1963-65.” 368.
+
 [^C1]: Collingham, Lizzie. <i>Taste of war: World War II and the Battle for Food.<i> Penguin, 2012.
 [^C2]: Mazower, Mark. <i>Hitler's Empire: How the Nazis Ruled Europe.<i> Penguin, 2009. 
 [^C3]: Collingham, Lizzie. <i>Taste of War: World War II and the Battle for Food.<i> Penguin, 2012.
