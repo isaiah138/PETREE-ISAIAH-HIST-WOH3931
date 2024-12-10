@@ -4,9 +4,10 @@ title: Analysis
 number: 2
 ---
 
-# Analysis
-## test topic
-Now analyze your historical subject. (1000 words). You can include images, videos and PDFs that pertain to your subject using the examples below. To add more, simply copy, paste, and change the title of your item to correspond with your media file.
+# Analysis 1
+## by Brian Davis
+When examining Germany during World War II, it becomes clear that the country committed a plethora of war crimes. This writing will discuss the mistreatment of Jewish people inside camps during the Holocaust. This essay will focus on forced labor, transit camps, and death camps, as these were the locations where most atrocities against Jewish people were committed.  From starvation, overworking, overcrowding, and poor sanitation these are the crimes committed by Germany during WW2. 
+
 
 # Embedding a Single Image
 
