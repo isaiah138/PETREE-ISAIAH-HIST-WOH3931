@@ -22,6 +22,11 @@ When examining the history of the war crimes committed by Germany during World W
 # Analysis 2
 ## by 
 
+
+
+# Footnote Citations
+[^1]: Bergen et al., <i>The United States Holocaust Memorial Museum Encyclopedia of Camps and Ghettos, 1933-1945, Volume I: Early Camps, Youth Camps, and Concentration Camps and Subcamps under the SS-Business Administration Main Office (WVHA)<i>. 443. 
+
 # Embedding a Single Image
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'siemensfactory'" %}
