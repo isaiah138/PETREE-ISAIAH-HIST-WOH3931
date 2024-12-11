@@ -8,7 +8,7 @@ number: 5
 
 ## Primary Sources
 
-“Sinti and Roma Holocaust Survivor Lina Jackson | Women’s History Month | USC Shoah Foundation.” YouTube. Accessed November 13, 2024. https://www.youtube.com/watch?v=47Ipb-VVLTU. 
+“Sinti and Roma Holocaust Survivor Lina Jackson - Women’s History Month - USC Shoah Foundation.” YouTube. Accessed November 13, 2024. https://www.youtube.com/watch?v=47Ipb-VVLTU. 
 
 ## Secondary Sources
 
