@@ -33,6 +33,12 @@ Even those who were pure blooded Germans were not safe from the arbitrary persec
 
 Among the Nazis most notorious crimes are forced sterilization and euthanasia, the primary victims of these being the disabled. On July 14th of 1933, The Law for the Prevention of Offspring with Hereditary Diseases was passed into order, mandating the forced sterilization of certain individuals with physical and mental disabilities.[^B6] The disabilities most targeted were deafness, schizophrenia, epilepsy, blindness, and physical hereditary deformities. However, certain groups such as gypsies and black people were also victim to this law. By the end of the 1930s, more than 400,000 Germans were ordered to be sterilized. The Nazis were not satisfied eliminating the possibility of future Germans being born with these “abnormalities”, they too desired to eliminate their own generation’s “deficiencies”. In 1939, Hitler secretly authorized Aktion T4, which was a plan to exterminate all German individuals with severe mental and physical disabilities, these individuals were deemed “unworthy of life”.[^B7] German doctors and nurses in hospitals actively and knowingly reported their patients, effectively sentencing them to be sent to killing facilities. Said killing facilities were Brandenburg, on the Havel River near Berlin, Grafeneck, in southwestern Germany, Bernburg, in Saxony, Sonnenstein, also in Saxony, Hartheim, near Linz on the Danube in Austria, Hadamar, in Hessen; these 6 installations utilized gas chambers, and were specifically made by T4 operatives for this mission. Overall, there were more than 200,000 victims of Aktion T4, Nazi Germany’s euthanasia program.[^B7]
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'davidgpic'" %}
+{% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'davidgpic1'" %}
+{% include media.html pages=media %}
+
   In the end, the German crimes against humanity committed throughout World War 2 culminated in millions dead and countless survivors receiving traumas that would last the rest of their lives. While it can be easy to think solely of the Jewish Holocaust, the other victims, the Romani, the LGBT, the disabled, and all that they went through, must not be forgotten by history. 
 
 
