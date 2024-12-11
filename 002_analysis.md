@@ -72,9 +72,9 @@ During the invasion of the Soviet Union mass rape occurred. Rape and sexual viol
 [^B2]: “War Crimes.” <i>Oxford Reference.<i> Accessed December 4, 2024. https://www.oxfordreference.com/display/10.1093/oi/authority.20110803120912786.
 [^B3]: United States Holocaust Memorial Museum. Accessed December 4, 2024. https://encyclopedia.ushmm.org/content/en/article/the-nuremberg-race-laws.
 [^B4]: “The Historical and Ongoing Persecution of Europe’s Gypsies.” <i>Open Learning.<i> Accessed December 4, 2024. https://www.open.edu/openlearn/history-the-arts/history/the-historical-and-ongoing-persecution-europes-gypsies#:~:text=It’s%20estimated%20that%20500%2C000%2C%2025,Porrajmos%3B%20the%20’devouring’. 
-[^B5]: United States Holocaust Memorial Museum. Accessed December 4, 2024. https://encyclopedia.ushmm.org/content/en/article/paragraph-175-and-the-nazi-campaign-against-homosexuality.
+[^B5]: United States Holocaust Memorial Museum. Accessed December 4, 2024. https://encyclopedia.ushmm.org/content/en/article/paragraph-175-and-the-nazi-campaign-against-homosexuality.  
 [^B6]: United States Holocaust Memorial Museum. Accessed December 4, 2024. https://encyclopedia.ushmm.org/content/en/article/paragraph-175-and-the-nazi-campaign-against-homosexuality.  
-[^B7]: United States Holocaust Memorial Museum. Accessed December 4, 2024. https://encyclopedia.ushmm.org/content/en/article/paragraph-175-and-the-nazi-campaign-against-homosexuality.  
+[^B7]: United States Holocaust Memorial Museum. Accessed December 4, 2024. https://encyclopedia.ushmm.org/content/en/article/euthanasia-program.  
 [^C1]: Collingham, Lizzie. <i>Taste of war: World War II and the Battle for Food.<i> Penguin, 2012.
 [^C2]: Mazower, Mark. <i>Hitler's Empire: How the Nazis Ruled Europe.<i> Penguin, 2009. 
 [^C3]: Collingham, Lizzie. <i>Taste of War: World War II and the Battle for Food.<i> Penguin, 2012.
