@@ -92,8 +92,3 @@ During the invasion of the Soviet Union mass rape occurred. Rape and sexual viol
 [^C9]: Askin, Kelly Dawn. <i>War Crimes against Women: Prosecution in International War Crimes Tribunals.<i> Vol. 1. Martinus Nijhoff Publishers, 1997.
 [^C10]: Askin, Kelly Dawn. <i>War Crimes against Women: Prosecution in International War Crimes Tribunals.<i> Vol. 1. Martinus Nijhoff Publishers, 1997.
 
-
-
-# Linking to a PDF File
-
-[Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
