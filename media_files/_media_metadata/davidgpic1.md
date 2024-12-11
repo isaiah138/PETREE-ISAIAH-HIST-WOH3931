@@ -8,6 +8,6 @@ creator: Reich Ministry for Public Enlightenment and Propaganda
 _date: 1936
 source: German Propaganda Archive
 
-_path: /media_files/images/davidgpic1.jpg 
+_path: /media_files/images/davidgpic2.jpg 
 layout: media_description
 --- 
