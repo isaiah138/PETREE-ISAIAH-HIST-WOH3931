@@ -36,7 +36,7 @@ Among the Nazis most notorious crimes are forced sterilization and euthanasia, t
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'davidgpic'" %}
 {% include media.html pages=media %}
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'davidgpic2'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'davidgpic1'" %}
 {% include media.html pages=media %}
 
   In the end, the German crimes against humanity committed throughout World War 2 culminated in millions dead and countless survivors receiving traumas that would last the rest of their lives. While it can be easy to think solely of the Jewish Holocaust, the other victims, the Romani, the LGBT, the disabled, and all that they went through, must not be forgotten by history. 
